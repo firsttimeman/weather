@@ -25,4 +25,6 @@ public class SwaggerConfig {
                 .description("날씨 일기를 crud 할수 있는 백엔드 API 프로젝트입니다")
                 .version("1.0");
     }
+
+
 }
